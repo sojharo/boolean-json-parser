@@ -1,0 +1,19 @@
+{
+  "name": "dema",
+  "version": "1.0.0",
+  "description": "coding challenge",
+  "main": "index.js",
+  "author": "sojharo",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-cache": "^5.1.2"
+  }
+}
