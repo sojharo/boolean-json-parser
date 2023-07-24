@@ -1,4 +1,4 @@
-const evaluate = require("./evaluate");
+const evaluate = require("./evaluate2");
 
 test("Given Example 1", () => {
   expect(
